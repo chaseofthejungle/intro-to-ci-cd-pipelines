@@ -1,5 +1,5 @@
-# intro-to-ci-cd-pipelines
-TODO: This guide will overview the following steps/flow in the CI/CD pipeline process.
+# Intro to CI/CD Pipelines
+TODO: This guide will overview the following steps/phases in the CI/CD pipeline process: Source/Version Control, Building, Testing, and Deployment. This includes the following processes:
   
 * Modifying code.
 * Merging project changes (including the modified code) together.
