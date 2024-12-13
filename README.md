@@ -1,12 +1,14 @@
 # Intro to CI/CD Pipelines
-TODO: This guide will overview the following steps/phases in the CI/CD pipeline process: Source/Version Control, Building, Testing, and Deployment. This includes the following processes:
+**Definition/Overview:** The Continuous Integration and Continuous Delivery (CI/CD) process flow paradigm empowers software development and DevOps teams to combine the stages of their efforts into an easily trackable/manageable and automatable product life cycle. Adherence to CI/CD principles promotes streamlined app coding/programming, testing, and deployment processes. Meanwhile, a version control system (VCS) is utilized to create and maintain depositories for easy consultation, cutover, and restoration/rollback.
+
+The four overarching phases/stages of the CI/CD pipeline include: *version control*, *building*, *testing*, and *deployment*.
   
-* Modifying code.
-* Merging project changes (including the modified code) together.
-* Moving the new code/project changes to a code repository.
-* Generating a build.
-* Testing a pre-deployment and generating/reading the report results.
-* Deploying a project to a staging environment.
-* Performing tests in a staging environment, including generating/reading the report results.
-* Deploying a project to a production environment.
-* Monitoring the project and logging events.
+**Essential Characteristics of CI/CD Process Flow include:**
+
+* Automated integration and unit testing, promoting healthy app builds.
+* Flexibility around functionality, performance, and security-related needs.
+* Quality assurance via the *static analysis* of committed code. 
+* Routine *code commits and immediate testing*, exhibited through a VCS (e.g., Git).
+  + This protects the production environment and halts building and releasing as necessary.
+* Streamlining delivery *after* integration, dedicating focus to trustworthy deployments.
+* Validation of code quality at each stage/phase of the CI/CD pipeline.
