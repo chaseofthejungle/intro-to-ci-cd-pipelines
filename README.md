@@ -12,3 +12,6 @@ The four overarching phases/stages of the CI/CD pipeline include: *version contr
   + This protects the production environment and halts building and releasing as necessary.
 * Streamlining delivery *after* integration, dedicating focus to trustworthy deployments.
 * Validation of code quality at each stage/phase of the CI/CD pipeline.
+
+TODO #1: Add overviews of all four stages.
+TODO #2: Introduce and explain CI/CD pipeline best practices.
