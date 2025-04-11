@@ -8,6 +8,7 @@ The four overarching phases/stages of the CI/CD pipeline include: *version contr
 1. [Essential Characteristics of CI/CD Process Flow](#essentials)
 2. [Four Stages Overview](#four-stages)
 3. [Best Practices](#best-practices)
+4. [Supplemental Resource](#supplemental)
   
 <hr />
   
@@ -28,6 +29,12 @@ The four overarching phases/stages of the CI/CD pipeline include: *version contr
 <hr />
 
 ## 3. <a name="best-practices">Best Practices</a>
+
+<hr />
+
+## 4. <a name="supplemental">Supplemental Resource</a>
+
+* [Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)
 
 <hr />
   
