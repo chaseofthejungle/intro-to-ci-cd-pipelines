@@ -8,7 +8,7 @@ The four overarching phases/stages of the CI/CD pipeline include: *version contr
 1. [Essential Characteristics of CI/CD Process Flow](#essentials)
 2. [Four Stages Overview](#four-stages)
 3. [Best Practices](#best-practices)
-4. [Supplemental Resource](#supplemental)
+4. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -32,9 +32,10 @@ The four overarching phases/stages of the CI/CD pipeline include: *version contr
 
 <hr />
 
-## 4. <a name="supplemental">Supplemental Resource</a>
+## 4. <a name="supplemental">Supplemental Resources</a>
 
-* [Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)
+* *[GitLab CI/CD vs. GitHub Actions](https://graphite.dev/guides/gitlab-cicd--vs-github-actions)*
+* *[Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)*
 
 <hr />
   
