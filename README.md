@@ -34,6 +34,7 @@ The four overarching phases/stages of the CI/CD pipeline include: *version contr
 
 ## 4. <a name="supplemental">Supplemental Resources</a>
 
+* *[Amazon AWS Documentation - Understanding CI/CD](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-cicd-litmus/understanding-cicd.html)*
 * *[GitLab CI/CD vs. GitHub Actions](https://graphite.dev/guides/gitlab-cicd--vs-github-actions)*
 * *[Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)*
 
